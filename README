@@ -1,0 +1,9 @@
+ftx_sync
+--------
+
+This is a reference implementation of the mutex and condition variable 
+synchronization primitives using the linux futex system calls.
+
+It is generously commented to explain exactly what's going on. I hope you find 
+it it is easy to understand.
+ 
